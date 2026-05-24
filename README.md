@@ -2,7 +2,10 @@
 
 ## 📱 Uygulama Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](image_74e95a.png)
+<p align="center">
+  <img src="image_74e95a.png" width="40%" alt="Uygulama Ekranı 1" />
+  <img src="image_74ed5c.png" width="40%" alt="Uygulama Ekranı 2" />
+</p>
 
 ---
 
