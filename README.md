@@ -2,9 +2,9 @@
 
 ## 📱 Uygulama Ekran Görüntüleri
 
+## 📱 Uygulama Ekran Görüntüleri
 <p align="center">
-  <img src="image_748b06.png" width="30%" alt="Ana Ekran" />
-  <img src="image_748747.png" width="30%" alt="Detay Ekranı" />
+  <img src="image_748b06.png" width="40%" alt="Uygulama Ekran Görüntüsü" />
 </p>
 
 ---
