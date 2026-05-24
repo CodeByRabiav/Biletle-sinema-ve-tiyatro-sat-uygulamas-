@@ -3,11 +3,8 @@
 ## 📱 Uygulama Ekran Görüntüleri
 
 <p align="center">
-  <img src="image_74e95a.png" width="40%" alt="Uygulama Ekranı 1" />
-  <img src="image_74ed5c.png" width="40%" alt="Uygulama Ekranı 2" />
+  <img src="1.png" width="40%" />
 </p>
-
----
 
 **Biletle**, kullanıcıların mobil cihazları üzerinden güncel sinema ve tiyatro etkinliklerini keşfedebileceği, seans ve salon bilgilerini görüntüleyebileceği, dinamik koltuk seçimi yaparak bilet rezervasyonu gerçekleştirebileceği ve PNR kodlu dijital biletler (QR kod) oluşturabileceği kapsamlı bir mobil programlama dönem projesidir.
 
