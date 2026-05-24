@@ -3,7 +3,7 @@
 ## 📱 Uygulama Ekran Görüntüleri
 
 <p align="center">
-  <img src="image_8b14ad.png" width="30%" alt="Ana Ekran" />
+  <img src="[image_8b14ad.png]" width="30%" alt="Ana Ekran" />
   <img src="image_748747.png" width="30%" alt="Detay Ekranı" />
 </p>
 
