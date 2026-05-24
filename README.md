@@ -3,9 +3,8 @@
 ## 📱 Uygulama Ekran Görüntüleri
 
 ## 📱 Uygulama Ekran Görüntüleri
-<p align="center">
-  <img src="image_748b06.png" width="40%" alt="Uygulama Ekran Görüntüsü" />
-</p>
+
+![Uygulama Ekran Görüntüsü](image_748b06.png)
 
 ---
 
