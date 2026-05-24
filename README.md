@@ -2,9 +2,7 @@
 
 ## 📱 Uygulama Ekran Görüntüleri
 
-## 📱 Uygulama Ekran Görüntüleri
-
-![Uygulama Ekran Görüntüsü](image_748b06.png)
+![Uygulama Ekran Görüntüsü](image_74e95a.png)
 
 ---
 
