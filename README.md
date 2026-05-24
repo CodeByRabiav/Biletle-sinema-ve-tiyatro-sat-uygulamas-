@@ -1,5 +1,14 @@
 # 🎬 Biletle - Mobil Sinema ve Tiyatro Bilet Satış ve Rezervasyon Sistemi
 
+## 📱 Uygulama Ekran Görüntüleri
+
+<p align="center">
+  <img src="image_8b14ad.png" width="30%" alt="Ana Ekran" />
+  <img src="image_748747.png" width="30%" alt="Detay Ekranı" />
+</p>
+
+---
+
 **Biletle**, kullanıcıların mobil cihazları üzerinden güncel sinema ve tiyatro etkinliklerini keşfedebileceği, seans ve salon bilgilerini görüntüleyebileceği, dinamik koltuk seçimi yaparak bilet rezervasyonu gerçekleştirebileceği ve PNR kodlu dijital biletler (QR kod) oluşturabileceği kapsamlı bir mobil programlama dönem projesidir.
 
 Proje, modern yazılım mühendisliği prensiplerine uygun olarak **Katmanlı Mimari** ve **MVVM** desenleri kullanılarak geliştirilmiş, ön yüzde **Flutter (Dart)**, arka yüzde ise **Flask (Python)** ve **PostgreSQL** bulut veritabanı mimarisi entegre edilmiştir.
